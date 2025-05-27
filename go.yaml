@@ -19,7 +19,7 @@ spec:
     
       containers: 
        - name: go
-         image: leonardosartorello/go_ci:23 
+         image: brunolaraujo/go_ci:Projeto_Inicial
          ports:
           - containerPort: 8000
          env:
